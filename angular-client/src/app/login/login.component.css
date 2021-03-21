@@ -1,0 +1,66 @@
+.inputTextBox{
+    outline: none;
+    width: 25vw;
+    height: 5vh;
+    padding: 1vh;
+    transition: 0.3s;
+    border: 1px solid #bd9fb1;
+    border-radius: 10px;
+}
+
+.inputTextBox:focus{
+    border: 2px solid #8f2e8f;
+}
+
+.loginButton{
+    background-color: #8f2e8f;
+    border-radius: 8px;
+    width: 8vw;
+    height: 5vh;
+    transition: 0.3s;
+    font-size: 2vh;
+    outline: none;
+    color: white;
+}
+
+.loginButton:hover{
+    background-color: #ee30ee;
+    font-size: 2.5vh;
+    width: 10vw;
+    color: black;
+}
+
+.signupButton{
+    background-color: #2e8f46;
+    border-radius: 8px;
+    width: 17vw;
+    height: 5vh;
+    transition: 0.3s;
+    font-size: 2vh;
+    outline: none;
+    color: white;
+}
+.signupButton:hover{
+    background-color: #b41421;
+    font-size: 3vh;
+    width: 20vw;
+    color: black;
+}
+
+.restModeClass{
+    background-color: #2e8f56;
+    border-radius: 8px;
+    width: 8vw;
+    height: 5vh;
+    transition: 0.3s;
+    font-size: 2vh;
+    outline: none;
+    color: white;
+}
+
+.restModeClass:hover{
+    background-color: #18a33b;
+    font-size: 3vh;
+    width: 10vw;
+    color: black;
+}
